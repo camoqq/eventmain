@@ -1,0 +1,15 @@
+ 1.created card layout using antdesign. I installed antdesign through
+ the terminal and then hardcoded the json of the card
+
+ 2.created layout of the homepage. I used css styles to create the layout 
+ by adding 5 columns of cards per row.
+
+ 3.I added the events menu on the left side of the page.
+
+ 4.created the context of the website. I generated the fake data with the 
+ faker json and then implemented the data managment of the page with the
+ useContext Hook. Even though i have not used any reducers at the moment,
+ i need to call the reducer Function with the useRedecer Hook.
+ 
+5.I tested the Events component to see if the text was being displayed
+in the page.
